@@ -1263,3 +1263,284 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.21-19.32.04:593][905]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
 	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_2
 	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.34.20:384][701]LogEditorTransaction: Undo Create Pin Link
+[2023.09.21-19.34.20:465][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-19.35.48:518][133]BlueprintLog: New page: Compile AB_Marine_01
+[2023.09.21-19.35.48:532][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB_Marine_01_C_4
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:533][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AB_Marine_01_C_4
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:533][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:552][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.09.21-19.35.48:558][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:582][134]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:594][135]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:605][136]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:614][137]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:625][138]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:634][139]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:644][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:654][141]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:665][142]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:675][143]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:687][144]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.48:698][145]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AB_Marine_01_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AB_Marine_01_C_3
+	Function /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01_C:ExecuteUbergraph_AB_Marine_01:0040
+[2023.09.21-19.35.51:197][414]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.21-19.35.51:201][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-19.35.51:201][414]PIE: New page: PIE session: Main (21 wrz 2023, 23:35:51)
+[2023.09.21-19.35.51:241][414]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.09.21-19.35.51:243][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001414s)
+[2023.09.21-19.35.51:244][414]LogAIModule: Creating AISystem for world Main
+[2023.09.21-19.35.51:244][414]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2023.09.21-19.35.51:244][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002494s)
+[2023.09.21-19.35.51:263][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.09.21-19.35.51:265][414]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.09.21-19.35.51:265][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-19.35.51:265][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-19.35.51:265][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-19.35.51:265][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-19.35.51:265][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.21-19.35.51:265][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-19.35.51:265][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.21-19.35.51:265][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-19.35.51:265][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-19.35.51:265][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-19.35.51:265][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-19.35.51:265][414]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.21-19.35.51:268][414]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.21-19.35.51:268][414]LogAudioMixer: Display: 1: FrontRight
+[2023.09.21-19.35.51:272][414]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.21-19.35.51:272][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-19.35.51:272][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-19.35.51:272][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-19.35.51:273][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.21-19.35.51:273][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.21-19.35.51:273][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.21-19.35.51:274][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.21-19.35.51:274][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.21-19.35.51:274][414]LogInit: FAudioDevice initialized.
+[2023.09.21-19.35.51:274][414]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2023.09.21-19.35.51:283][414]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.09.21-19.35.51:283][414]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.21-21.35.51
+[2023.09.21-19.35.51:284][414]LogWorld: Bringing up level for play took: 0.000316
+[2023.09.21-19.35.51:284][414]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.09.21-19.35.51:286][414]PIE: Server logged in
+[2023.09.21-19.35.51:287][414]PIE: Play in editor total start time 0,086 seconds.
+[2023.09.21-19.36.10:422][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.36.10:422][706]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.09.21-19.36.10:422][706]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.36.10:422][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.36.10:431][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-19.36.10:445][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.36.10:460][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.21-19.36.10:460][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.36.10:461][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.36.10:463][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.36.10:465][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.09.21-19.36.10:514][708]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.21-19.41.33:254][941]LogEditorTransaction: Undo Add Node
+[2023.09.21-19.41.33:336][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-19.43.33:330][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.09.21-19.43.33:333][ 45]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.025
+[2023.09.21-19.43.33:333][ 45]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AB_Marine_01] ([2] browsable assets)...
+[2023.09.21-19.43.33:340][ 45]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01]
+[2023.09.21-19.43.33:341][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AB_Marine_01]
+[2023.09.21-19.43.33:357][ 45]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/AB_Marine_01_Auto4AE88629F42C3440362C68595823B361F.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/AB_Marine_01_Auto4.uasset'
+[2023.09.21-19.43.33:357][ 45]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.09.21-19.43.34:803][160]BlueprintLog: New page: Compile AB_Marine_01
+[2023.09.21-19.43.34:838][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.09.21-19.43.37:358][407]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.21-19.43.37:362][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-19.43.37:362][407]PIE: New page: PIE session: Main (21 wrz 2023, 23:43:37)
+[2023.09.21-19.43.37:397][407]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.09.21-19.43.37:399][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001407s)
+[2023.09.21-19.43.37:399][407]LogAIModule: Creating AISystem for world Main
+[2023.09.21-19.43.37:400][407]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2023.09.21-19.43.37:400][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002463s)
+[2023.09.21-19.43.37:418][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.09.21-19.43.37:419][407]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.21-19.43.37:419][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-19.43.37:419][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-19.43.37:419][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-19.43.37:419][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-19.43.37:419][407]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.21-19.43.37:419][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-19.43.37:419][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.21-19.43.37:420][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-19.43.37:420][407]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-19.43.37:420][407]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-19.43.37:420][407]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-19.43.37:420][407]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.21-19.43.37:422][407]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.21-19.43.37:422][407]LogAudioMixer: Display: 1: FrontRight
+[2023.09.21-19.43.37:427][407]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.21-19.43.37:427][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-19.43.37:427][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-19.43.37:427][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-19.43.37:427][407]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.21-19.43.37:427][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.21-19.43.37:427][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.21-19.43.37:428][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.21-19.43.37:429][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.21-19.43.37:429][407]LogInit: FAudioDevice initialized.
+[2023.09.21-19.43.37:429][407]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.09.21-19.43.37:438][407]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.09.21-19.43.37:439][407]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.21-21.43.37
+[2023.09.21-19.43.37:439][407]LogWorld: Bringing up level for play took: 0.000334
+[2023.09.21-19.43.37:439][407]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.09.21-19.43.37:441][407]PIE: Server logged in
+[2023.09.21-19.43.37:442][407]PIE: Play in editor total start time 0,081 seconds.
+[2023.09.21-19.43.42:571][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.43.42:571][ 18]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.09.21-19.43.42:572][ 18]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.43.42:572][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.43.42:579][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-19.43.42:592][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.43.42:609][ 18]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.21-19.43.42:609][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.43.42:610][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.43.42:612][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.43.42:614][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.09.21-19.43.42:656][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.09.21-19.48.34:040][404]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.21-19.48.34:044][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.21-19.48.34:044][404]PIE: New page: PIE session: Main (21 wrz 2023, 23:48:34)
+[2023.09.21-19.48.34:080][404]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.09.21-19.48.34:081][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001553s)
+[2023.09.21-19.48.34:082][404]LogAIModule: Creating AISystem for world Main
+[2023.09.21-19.48.34:082][404]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2023.09.21-19.48.34:082][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002741s)
+[2023.09.21-19.48.34:102][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.09.21-19.48.34:104][404]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.09.21-19.48.34:104][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.21-19.48.34:104][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.21-19.48.34:104][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.21-19.48.34:104][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.21-19.48.34:104][404]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.21-19.48.34:104][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.21-19.48.34:104][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.21-19.48.34:104][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.21-19.48.34:104][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.21-19.48.34:104][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.21-19.48.34:104][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.21-19.48.34:104][404]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.21-19.48.34:106][404]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.21-19.48.34:106][404]LogAudioMixer: Display: 1: FrontRight
+[2023.09.21-19.48.34:111][404]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.21-19.48.34:112][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.21-19.48.34:112][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.21-19.48.34:112][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.21-19.48.34:112][404]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.21-19.48.34:112][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.21-19.48.34:112][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.21-19.48.34:113][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.21-19.48.34:113][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.21-19.48.34:113][404]LogInit: FAudioDevice initialized.
+[2023.09.21-19.48.34:113][404]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2023.09.21-19.48.34:121][404]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.09.21-19.48.34:122][404]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.09.21-21.48.34
+[2023.09.21-19.48.34:122][404]LogWorld: Bringing up level for play took: 0.000306
+[2023.09.21-19.48.34:122][404]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.09.21-19.48.34:124][404]PIE: Server logged in
+[2023.09.21-19.48.34:125][404]PIE: Play in editor total start time 0,082 seconds.
+[2023.09.21-19.48.38:817][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.48.38:817][963]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.09.21-19.48.38:818][963]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.21-19.48.38:818][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.48.38:827][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.21-19.48.38:840][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.21-19.48.38:855][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.21-19.48.38:855][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.48.38:856][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.21-19.48.38:860][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.09.21-19.48.38:902][965]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.09.21-19.50.02:367][ 18]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.09.21-19.50.02:373][ 18]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2023.09.21-19.50.02:386][ 18]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2023.09.21-19.50.14:110][300]LogContentBrowser: Attempting asset rename: NewBlendSpace -> NewBlendSpace
+[2023.09.21-19.50.14:116][300]LogContentBrowser: End creating deferred item NewBlendSpace
+[2023.09.21-19.50.27:469][823]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_Marine_01
+[2023.09.21-19.50.27:522][823]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BS_Marine_01480FC3464BAAB4199EDA249A9E0C4134.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Content/Characters/Marine/Animations/BS_Marine_01.uasset'
+[2023.09.21-19.50.27:578][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.09.21-19.50.27:603][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.21-19.50.27:619][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.09.21-19.50.27:651][823]AssetCheck: New page: Asset Save: BS_Marine_01
+[2023.09.21-19.50.27:651][823]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/BS_Marine_01.BS_Marine_01
+[2023.09.21-19.50.34:580][991]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Marine/Animations/BS_Marine_01.BS_Marine_01
+[2023.09.21-19.50.34:596][991]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-19.50.35:046][991]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.21-19.53.43:475][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.09.21-19.53.43:475][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.049
+[2023.09.21-19.53.43:476][875]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([2] browsable assets)...
+[2023.09.21-19.53.43:494][875]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.21-19.53.43:494][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.21-19.53.43:502][875]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto51FE2814A44822348E3E1C9A525FDF801.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto5.uasset'
+[2023.09.21-19.53.43:508][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AB_Marine_01] ([2] browsable assets)...
+[2023.09.21-19.53.43:523][875]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01]
+[2023.09.21-19.53.43:523][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AB_Marine_01]
+[2023.09.21-19.53.43:539][875]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/AB_Marine_01_Auto572CBD45646F19FF6AF098BA96FE3F584.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/AB_Marine_01_Auto5.uasset'
+[2023.09.21-19.53.43:539][875]LogFileHelpers: Auto-saving content packages took 0.064
+[2023.09.21-20.02.43:125][699]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Bwd.Run_Bwd
+[2023.09.21-20.02.47:274][ 95]Cmd: TRANSACTION UNDO
+[2023.09.21-20.02.47:274][ 95]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2023.09.21-20.02.47:427][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-20.02.47:428][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-20.04.27:481][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.09.21-20.04.27:486][108]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.031
+[2023.09.21-20.04.27:486][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Marine/Animations/BS_Marine_01] ([1] browsable assets)...
+[2023.09.21-20.04.27:502][108]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Characters/Marine/Animations/BS_Marine_01.BS_Marine_01]
+[2023.09.21-20.04.27:503][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/BS_Marine_01]
+[2023.09.21-20.04.27:508][108]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BS_Marine_01_Auto6BFB7D46A4306DED10E33E083AC814929.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/BS_Marine_01_Auto6.uasset'
+[2023.09.21-20.04.27:508][108]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.09.21-20.07.04:413][800]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Lt.Run_Lt
+[2023.09.21-20.07.09:248][260]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Run_Rt.Run_Rt
+[2023.09.21-20.07.58:499][ 74]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BS_Marine_01BEE63F5C411525CC334FB2AD7904A259.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Content/Characters/Marine/Animations/BS_Marine_01.uasset'
+[2023.09.21-20.07.58:512][ 74]AssetCheck: New page: Asset Save: BS_Marine_01
+[2023.09.21-20.07.58:512][ 74]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/BS_Marine_01.BS_Marine_01
+[2023.09.21-20.09.38:834][868]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BS_Marine_0160A9F36B4A8C6155973D4991AE1C1DFF.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Content/Characters/Marine/Animations/BS_Marine_01.uasset'
+[2023.09.21-20.09.38:846][868]AssetCheck: New page: Asset Save: BS_Marine_01
+[2023.09.21-20.09.38:846][868]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Marine/Animations/BS_Marine_01.BS_Marine_01
+[2023.09.21-20.10.02:975][ 94]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.21-20.10.04:429][216]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Marine/Animations/Death.Death
+[2023.09.21-20.13.51:240][206]LogEditorTransaction: Undo Rename Variable
+[2023.09.21-20.13.51:387][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-20.13.51:388][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.21-20.14.52:185][846]LogRenderer: Reallocating scene render targets to support 1132x504 Format 10 NumSamples 1 (Frame:20098).
+[2023.09.21-20.15.36:239][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.09.21-20.15.36:248][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.038
+[2023.09.21-20.15.36:249][533]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AB_Marine_01] ([4] browsable assets)...
+[2023.09.21-20.15.36:259][533]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01]
+[2023.09.21-20.15.36:269][533]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01]
+[2023.09.21-20.15.36:269][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AB_Marine_01]
+[2023.09.21-20.15.36:284][533]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/AB_Marine_01_Auto7E290082C4DDAC0A9F89E838BD788AF56.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/AB_Marine_01_Auto7.uasset'
+[2023.09.21-20.15.36:285][533]LogFileHelpers: Auto-saving content packages took 0.036
