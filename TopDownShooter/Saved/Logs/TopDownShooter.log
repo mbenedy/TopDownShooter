@@ -1873,3 +1873,176 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.26-10.48.25:247][398]LogSlate: Window 'Marine' being destroyed
 [2023.09.26-10.48.25:247][398]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
 [2023.09.26-10.48.25:247][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.48.38:286][550]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2023.09.26-10.49.39:117][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.09.26-10.49.39:121][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.009
+[2023.09.26-10.49.39:121][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Marine/Marine] ([1] browsable assets)...
+[2023.09.26-10.49.39:136][ 55]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Marine/Marine.Marine]
+[2023.09.26-10.49.39:136][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Marine]
+[2023.09.26-10.49.39:154][ 55]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Marine_Auto2F2FC72444497CBE2D437858832EC5873.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Marine_Auto2.uasset'
+[2023.09.26-10.49.39:155][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Marine/Materials/BP_marine_01] ([1] browsable assets)...
+[2023.09.26-10.49.39:170][ 55]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Characters/Marine/Materials/BP_marine_01.BP_marine_01]
+[2023.09.26-10.49.39:170][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Materials/BP_marine_01]
+[2023.09.26-10.49.39:176][ 55]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_marine_01_Auto272821C604D280E7D23E1D3956F3D376B.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Materials/BP_marine_01_Auto2.uasset'
+[2023.09.26-10.49.39:177][ 55]LogFileHelpers: Auto-saving content packages took 0.056
+[2023.09.26-10.50.38:036][449]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Characters/Marine/Marine_PhysicsAsset.Marine_PhysicsAsset
+[2023.09.26-10.50.38:051][449]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2023.09.26-10.50.38:062][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.09.26-10.50.43:838][737]LogSlate: Window 'Marine_PhysicsAsset' being destroyed
+[2023.09.26-10.50.43:841][737]LogSlate: Window 'Marine_PhysicsAsset' being destroyed
+[2023.09.26-10.50.43:842][737]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.50.43:842][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.50.44:913][797]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2023.09.26-10.50.44:916][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-10.50.56:474][473]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Marine/Marine_Skeleton.Marine_Skeleton
+[2023.09.26-10.50.56:478][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-10.50.58:348][573]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Marine/Animations/BS_Marine_01.BS_Marine_01
+[2023.09.26-10.50.58:357][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-10.50.58:576][573]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.26-10.50.59:890][650]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01
+[2023.09.26-10.50.59:901][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-10.51.00:527][650]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.09.26-10.51.01:464][650]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.26-10.51.06:113][928]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Characters/Marine/Marine_PhysicsAsset.Marine_PhysicsAsset
+[2023.09.26-10.51.06:117][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.09.26-10.51.22:919][291]LogSlate: Window 'Marine_PhysicsAsset' being destroyed
+[2023.09.26-10.51.22:922][291]LogSlate: Window 'Marine_PhysicsAsset' being destroyed
+[2023.09.26-10.51.22:923][291]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.51.22:923][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.51.22:971][291]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.51.22:971][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.51.23:016][291]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.51.23:016][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.51.23:061][291]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.51.23:061][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.51.23:086][291]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.51.23:086][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.51.23:094][291]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.51.23:095][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.51.23:154][291]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.51.23:154][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.51.23:163][291]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-10.51.23:163][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-10.51.37:037][117]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.09.26-10.54.17:296][378]LogEditorTransaction: Undo Modify Component(s)
+[2023.09.26-10.54.19:678][498]LogEditorTransaction: Undo Detach Component
+[2023.09.26-10.54.19:681][498]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_34:PersistentLevel.BP_Soldier_01_C_0.CharacterMesh0) Component already registered.
+[2023.09.26-10.55.53:980][124]LogEditorTransaction: Undo Remove Components
+[2023.09.26-10.56.50:915][664]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.09.26-10.56.50:971][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.09.26-11.00.01:405][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.09.26-11.00.01:412][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.025
+[2023.09.26-11.00.01:412][622]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.09.26-11.00.01:427][622]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01_C]
+[2023.09.26-11.00.01:434][622]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.00.01:442][622]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01_C]
+[2023.09.26-11.00.01:449][622]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.00.01:449][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.26-11.00.01:501][622]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto394DFBDED49F1DA1B995941B74C451559.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto3.uasset'
+[2023.09.26-11.00.01:502][622]LogFileHelpers: Auto-saving content packages took 0.091
+[2023.09.26-11.00.12:004][250]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Marine/Marine_Skeleton.Marine_Skeleton
+[2023.09.26-11.00.12:007][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-11.02.07:111][187]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2023.09.26-11.02.07:114][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-11.03.47:680][988]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.09.26-11.03.47:721][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.09.26-11.03.50:520][150]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-11.03.50:523][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-11.03.50:523][150]PIE: New page: PIE session: Main (26 wrz 2023, 15:03:50)
+[2023.09.26-11.03.50:524][150]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.09.26-11.03.50:525][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001156s)
+[2023.09.26-11.03.50:525][150]LogAIModule: Creating AISystem for world Main
+[2023.09.26-11.03.50:526][150]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2023.09.26-11.03.50:526][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002060s)
+[2023.09.26-11.03.50:542][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.09.26-11.03.50:542][150]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.26-11.03.50:542][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-11.03.50:542][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-11.03.50:542][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-11.03.50:542][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-11.03.50:542][150]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-11.03.50:542][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-11.03.50:542][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-11.03.50:542][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-11.03.50:543][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-11.03.50:543][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-11.03.50:543][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-11.03.50:543][150]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-11.03.50:545][150]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-11.03.50:545][150]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-11.03.50:549][150]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-11.03.50:549][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-11.03.50:550][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-11.03.50:550][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-11.03.50:550][150]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-11.03.50:550][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-11.03.50:550][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-11.03.50:551][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-11.03.50:551][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-11.03.50:551][150]LogInit: FAudioDevice initialized.
+[2023.09.26-11.03.50:551][150]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.09.26-11.03.50:555][150]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.09.26-11.03.50:556][150]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.09.26-13.03.50
+[2023.09.26-11.03.50:556][150]LogWorld: Bringing up level for play took: 0.000391
+[2023.09.26-11.03.50:556][150]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.09.26-11.03.50:559][150]PIE: Server logged in
+[2023.09.26-11.03.50:559][150]PIE: Play in editor total start time 0,036 seconds.
+[2023.09.26-11.03.57:613][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-11.03.57:613][571]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.09.26-11.03.57:614][571]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-11.03.57:614][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-11.03.57:623][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-11.03.57:636][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-11.03.57:650][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-11.03.57:650][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-11.03.57:651][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-11.03.57:653][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-11.03.57:655][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.09.26-11.03.57:677][572]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.09.26-11.09.50:392][488]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.26-11.10.45:047][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.09.26-11.10.45:049][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.019
+[2023.09.26-11.10.45:049][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.09.26-11.10.45:059][569]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.10.45:068][569]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.10.45:068][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.26-11.10.45:084][569]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto4E11D253E452F93C162477B8B8CBC9106.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto4.uasset'
+[2023.09.26-11.10.45:090][569]LogFileHelpers: Auto-saving content packages took 0.041
+[2023.09.26-11.10.45:331][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.09.26-11.11.53:397][700]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.09.26-11.20.43:177][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.09.26-11.20.43:179][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.048
+[2023.09.26-11.20.43:179][565]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.09.26-11.20.43:188][565]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.20.43:194][565]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.20.43:195][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.26-11.20.43:212][565]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto578542C714171D4CDAA8D069615557E53.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto5.uasset'
+[2023.09.26-11.20.43:213][565]LogFileHelpers: Auto-saving content packages took 0.035
+[2023.09.26-11.31.59:834][201]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.09.26-11.31.59:882][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.09.26-11.32.30:000][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.09.26-11.32.30:002][528]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.025
+[2023.09.26-11.32.30:003][528]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.09.26-11.32.30:019][528]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.32.30:034][528]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.32.30:034][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.26-11.32.30:051][528]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto68DAEB0234EC6D8BCB20BB0B9C548C7CE.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto6.uasset'
+[2023.09.26-11.32.30:052][528]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.09.26-11.38.38:719][106]LogEditorTransaction: Undo Rename Node
+[2023.09.26-11.38.38:872][106]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-11.38.38:875][106]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-11.38.53:984][888]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.09.26-11.38.54:005][888]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.26-11.39.21:603][544]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.09.26-11.39.21:648][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.09.26-11.41.03:371][187]LogSlate: Window 'Project Settings' being destroyed
+[2023.09.26-11.41.03:376][187]LogSlate: Window 'Project Settings' being destroyed
+[2023.09.26-11.41.43:914][678]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.26-11.42.30:430][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.09.26-11.42.30:437][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.031
+[2023.09.26-11.42.30:438][939]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.09.26-11.42.30:453][939]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.42.30:468][939]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-11.42.30:468][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.26-11.42.30:484][939]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto78584109E45B1F2626E1AD6B56C87AE25.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto7.uasset'
+[2023.09.26-11.42.30:485][939]LogFileHelpers: Auto-saving content packages took 0.048
