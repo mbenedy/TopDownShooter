@@ -2234,3 +2234,225 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.26-12.42.16:358][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
 [2023.09.26-12.42.16:402][343]LogPlayLevel: Display: Destroying online subsystem :Context_46
 [2023.09.26-12.42.16:670][359]Cmd: SELECT NONE
+[2023.09.26-12.48.27:830][132]LogContentBrowser: Attempting asset rename: Sounds -> Sounds
+[2023.09.26-12.48.35:727][602]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.26-12.49.12:096][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.09.26-12.49.12:104][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.031
+[2023.09.26-12.49.12:105][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.09.26-12.49.12:127][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-12.49.12:142][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-12.49.12:142][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.26-12.49.12:162][407]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto9F3F0F5114BF040506EB57FB556C8D9DF.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto9.uasset'
+[2023.09.26-12.49.12:162][407]LogFileHelpers: Auto-saving content packages took 0.058
+[2023.09.26-12.49.22:109][551]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_Shot01_Stereo...
+[2023.09.26-12.49.22:110][551]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot01_Stereo.AssaultRifle_Shot01_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.22:143][551]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 276180 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot01_Stereo.AssaultRifle_Shot01_Stereo.
+[2023.09.26-12.49.23:572][636]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Weapon_AssaultRifle_Reload02_Stereo...
+[2023.09.26-12.49.23:572][636]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload02_Stereo.Weapon_AssaultRifle_Reload02_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.23:584][636]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 161112 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload02_Stereo.Weapon_AssaultRifle_Reload02_Stereo.
+[2023.09.26-12.49.23:584][636]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Weapon_AssaultRifle_Reload03_Stereo...
+[2023.09.26-12.49.23:584][636]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload03_Stereo.Weapon_AssaultRifle_Reload03_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.23:596][636]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 141196 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload03_Stereo.Weapon_AssaultRifle_Reload03_Stereo.
+[2023.09.26-12.49.23:596][636]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Weapon_AssaultRifle_Reload01_Stereo...
+[2023.09.26-12.49.23:596][636]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload01_Stereo.Weapon_AssaultRifle_Reload01_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.23:612][636]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 139816 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Reload01_Stereo.Weapon_AssaultRifle_Reload01_Stereo.
+[2023.09.26-12.49.33:648][238]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Weapon_AssaultRifle_Swap03_Stereo...
+[2023.09.26-12.49.33:648][238]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap03_Stereo.Weapon_AssaultRifle_Swap03_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.33:657][238]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101712 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap03_Stereo.Weapon_AssaultRifle_Swap03_Stereo.
+[2023.09.26-12.49.33:657][238]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Weapon_AssaultRifle_Swap02_Stereo...
+[2023.09.26-12.49.33:657][238]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap02_Stereo.Weapon_AssaultRifle_Swap02_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.33:667][238]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 137004 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap02_Stereo.Weapon_AssaultRifle_Swap02_Stereo.
+[2023.09.26-12.49.33:668][238]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Weapon_AssaultRifle_Swap01_Stereo...
+[2023.09.26-12.49.33:668][238]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap01_Stereo.Weapon_AssaultRifle_Swap01_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.33:677][238]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 110928 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/Weapon_AssaultRifle_Swap01_Stereo.Weapon_AssaultRifle_Swap01_Stereo.
+[2023.09.26-12.49.36:189][388]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_Shot04_Stereo...
+[2023.09.26-12.49.36:189][388]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot04_Stereo.AssaultRifle_Shot04_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.36:208][388]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 333124 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot04_Stereo.AssaultRifle_Shot04_Stereo.
+[2023.09.26-12.49.37:367][456]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_Shot05_Stereo...
+[2023.09.26-12.49.37:367][456]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot05_Stereo.AssaultRifle_Shot05_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.37:387][456]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 356640 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot05_Stereo.AssaultRifle_Shot05_Stereo.
+[2023.09.26-12.49.38:292][510]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_Shot06_Stereo...
+[2023.09.26-12.49.38:292][510]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot06_Stereo.AssaultRifle_Shot06_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.38:312][510]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 353940 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_Shot06_Stereo.AssaultRifle_Shot06_Stereo.
+[2023.09.26-12.49.39:452][576]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd03_Stereo...
+[2023.09.26-12.49.39:452][576]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.AssaultRifle_ShotEnd03_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.39:469][576]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 304952 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd03_Stereo.AssaultRifle_ShotEnd03_Stereo.
+[2023.09.26-12.49.40:716][649]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd02_Stereo...
+[2023.09.26-12.49.40:717][649]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.AssaultRifle_ShotEnd02_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.40:735][649]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 316788 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd02_Stereo.AssaultRifle_ShotEnd02_Stereo.
+[2023.09.26-12.49.41:525][696]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd01_Stereo...
+[2023.09.26-12.49.41:525][696]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.AssaultRifle_ShotEnd01_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.41:540][696]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 256020 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd01_Stereo.AssaultRifle_ShotEnd01_Stereo.
+[2023.09.26-12.49.44:045][845]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd04_Stereo...
+[2023.09.26-12.49.44:045][845]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.AssaultRifle_ShotEnd04_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.44:061][845]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 272260 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd04_Stereo.AssaultRifle_ShotEnd04_Stereo.
+[2023.09.26-12.49.45:007][901]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop01_Stereo...
+[2023.09.26-12.49.45:007][901]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.AssaultRifle_ShotLoop01_Stereo will be modified from 80 to 80.
+[2023.09.26-12.49.45:031][901]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 317292 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop01_Stereo.AssaultRifle_ShotLoop01_Stereo.
+[2023.09.26-12.50.42:987][722]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop02_Stereo...
+[2023.09.26-12.50.42:988][722]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.AssaultRifle_ShotLoop02_Stereo will be modified from 80 to 80.
+[2023.09.26-12.50.43:009][722]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 301920 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop02_Stereo.AssaultRifle_ShotLoop02_Stereo.
+[2023.09.26-12.51.14:081][678]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.09.26-12.51.14:095][678]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.09.26-12.51.18:504][943]LogContentBrowser: Attempting asset rename: NewSoundCue -> RandomFireloop
+[2023.09.26-12.51.18:506][943]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.09.26-12.51.27:504][308]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RandomFireloop.RandomFireloop
+[2023.09.26-12.51.58:138][583]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotLoop03_Stereo...
+[2023.09.26-12.51.58:138][583]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo will be modified from 80 to 80.
+[2023.09.26-12.51.58:161][583]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 317288 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotLoop03_Stereo.AssaultRifle_ShotLoop03_Stereo.
+[2023.09.26-12.52.38:054][264]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/RandomFireloop.RandomFireloop was zero and has changed. Consider manually Re-saving the asset
+[2023.09.26-12.56.12:382][273]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-12.56.12:382][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-12.56.12:863][298]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-12.56.12:863][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.00.27:094][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.09.26-13.00.27:104][928]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.040
+[2023.09.26-13.00.27:105][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.09.26-13.00.27:127][928]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-13.00.27:142][928]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-13.00.27:142][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.26-13.00.27:163][928]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto0C7335FBF457A1C0D35873CAD437B8605.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto0.uasset'
+[2023.09.26-13.00.27:164][928]LogFileHelpers: Auto-saving content packages took 0.059
+[2023.09.26-13.02.31:721][280]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.09.26-13.02.31:764][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.09.26-13.02.33:727][395]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-13.02.33:732][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-13.02.33:732][395]PIE: New page: PIE session: Main (26 wrz 2023, 17:02:33)
+[2023.09.26-13.02.33:758][395]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.09.26-13.02.33:759][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001525s)
+[2023.09.26-13.02.33:760][395]LogAIModule: Creating AISystem for world Main
+[2023.09.26-13.02.33:760][395]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2023.09.26-13.02.33:760][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002529s)
+[2023.09.26-13.02.33:782][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.09.26-13.02.33:782][395]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.09.26-13.02.33:783][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-13.02.33:783][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-13.02.33:783][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-13.02.33:783][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-13.02.33:783][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-13.02.33:783][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-13.02.33:783][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-13.02.33:783][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-13.02.33:783][395]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-13.02.33:783][395]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-13.02.33:783][395]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-13.02.33:783][395]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-13.02.33:785][395]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-13.02.33:786][395]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-13.02.33:790][395]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-13.02.33:790][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-13.02.33:790][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-13.02.33:790][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-13.02.33:791][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-13.02.33:791][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-13.02.33:791][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-13.02.33:791][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-13.02.33:791][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-13.02.33:791][395]LogInit: FAudioDevice initialized.
+[2023.09.26-13.02.33:791][395]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main'.
+[2023.09.26-13.02.33:801][395]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.09.26-13.02.33:801][395]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.09.26-15.02.33
+[2023.09.26-13.02.33:801][395]LogWorld: Bringing up level for play took: 0.000360
+[2023.09.26-13.02.33:801][395]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.09.26-13.02.33:804][395]PIE: Server logged in
+[2023.09.26-13.02.33:805][395]PIE: Play in editor total start time 0,074 seconds.
+[2023.09.26-13.02.37:023][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-13.02.37:023][586]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.09.26-13.02.37:023][586]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-13.02.37:023][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.02.37:029][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-13.02.37:033][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.02.37:052][586]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.26-13.02.37:052][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-13.02.37:053][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-13.02.37:055][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-13.02.37:057][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.09.26-13.02.37:100][588]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.09.26-13.03.13:407][137]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.09.26-13.03.13:420][137]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.09.26-13.03.15:579][267]LogContentBrowser: Attempting asset rename: NewSoundCue -> GunFireEnd
+[2023.09.26-13.03.15:580][267]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.09.26-13.03.21:068][594]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/GunFireEnd.GunFireEnd
+[2023.09.26-13.04.42:247][639]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd05_Stereo...
+[2023.09.26-13.04.42:247][639]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.AssaultRifle_ShotEnd05_Stereo will be modified from 80 to 80.
+[2023.09.26-13.04.42:265][639]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 328084 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd05_Stereo.AssaultRifle_ShotEnd05_Stereo.
+[2023.09.26-13.04.42:266][639]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AssaultRifle_ShotEnd06_Stereo...
+[2023.09.26-13.04.42:267][639]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.AssaultRifle_ShotEnd06_Stereo will be modified from 80 to 80.
+[2023.09.26-13.04.42:284][639]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 315384 while cooking SoundWave /Game/Sounds/Weapon_AssaultRifle/Stereo/AssaultRifle_ShotEnd06_Stereo.AssaultRifle_ShotEnd06_Stereo.
+[2023.09.26-13.05.01:718][644]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/GunFireEnd.GunFireEnd was zero and has changed. Consider manually Re-saving the asset
+[2023.09.26-13.05.41:929][793]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/GunFireEnd61239F05450E59216B2A7DA4E624FB3F.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Content/Sounds/Weapon_AssaultRifle/Stereo/GunFireEnd.uasset'
+[2023.09.26-13.05.41:945][793]AssetCheck: New page: Asset Save: GunFireEnd
+[2023.09.26-13.05.41:945][793]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Weapon_AssaultRifle/Stereo/GunFireEnd.GunFireEnd
+[2023.09.26-13.05.43:655][895]LogSlate: Window 'GunFireEnd' being destroyed
+[2023.09.26-13.05.43:658][895]LogSlate: Window 'GunFireEnd' being destroyed
+[2023.09.26-13.05.43:663][895]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-13.05.43:663][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.06.23:016][602]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Marine/Marine.Marine
+[2023.09.26-13.06.23:019][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.26-13.06.25:440][733]LogSlate: Window 'Marine' being destroyed
+[2023.09.26-13.06.25:444][733]LogSlate: Window 'Marine' being destroyed
+[2023.09.26-13.06.25:444][733]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-13.06.25:444][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.06.32:799][170]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.09.26-13.08.16:749][118]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.09.26-13.08.16:832][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.09.26-13.08.18:593][220]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.26-13.08.18:599][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.26-13.08.18:599][220]PIE: New page: PIE session: Main (26 wrz 2023, 17:08:18)
+[2023.09.26-13.08.18:599][220]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.09.26-13.08.18:601][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001973s)
+[2023.09.26-13.08.18:602][220]LogAIModule: Creating AISystem for world Main
+[2023.09.26-13.08.18:602][220]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2023.09.26-13.08.18:602][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.003209s)
+[2023.09.26-13.08.18:657][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.09.26-13.08.18:658][220]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.09.26-13.08.18:658][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.26-13.08.18:658][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.26-13.08.18:658][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.26-13.08.18:658][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.26-13.08.18:658][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.26-13.08.18:658][220]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.26-13.08.18:658][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.26-13.08.18:658][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.26-13.08.18:658][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.26-13.08.18:658][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.26-13.08.18:658][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.26-13.08.18:658][220]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.26-13.08.18:661][220]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.26-13.08.18:661][220]LogAudioMixer: Display: 1: FrontRight
+[2023.09.26-13.08.18:671][220]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.09.26-13.08.18:671][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.26-13.08.18:672][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.26-13.08.18:672][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.26-13.08.18:672][220]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.26-13.08.18:672][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.26-13.08.18:672][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.26-13.08.18:673][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.26-13.08.18:673][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.26-13.08.18:673][220]LogInit: FAudioDevice initialized.
+[2023.09.26-13.08.18:673][220]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main'.
+[2023.09.26-13.08.18:682][220]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.09.26-13.08.18:682][220]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.09.26-15.08.18
+[2023.09.26-13.08.18:682][220]LogWorld: Bringing up level for play took: 0.000344
+[2023.09.26-13.08.18:683][220]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2023.09.26-13.08.18:685][220]PIE: Server logged in
+[2023.09.26-13.08.18:686][220]PIE: Play in editor total start time 0,088 seconds.
+[2023.09.26-13.08.28:585][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-13.08.28:585][813]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.09.26-13.08.28:585][813]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.09.26-13.08.28:585][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.08.28:592][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.26-13.08.28:595][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.26-13.08.28:612][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.26-13.08.28:612][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-13.08.28:613][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.09.26-13.08.28:617][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.09.26-13.08.28:678][816]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.09.26-13.10.40:984][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.09.26-13.10.40:985][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.020
+[2023.09.26-13.10.40:985][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([4] browsable assets)...
+[2023.09.26-13.10.41:002][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-13.10.41:018][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.09.26-13.10.41:018][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.09.26-13.10.41:042][270]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto179A308A34AB5CEBF3C2D7C9CD9B657F0.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto1.uasset'
+[2023.09.26-13.10.41:043][270]LogFileHelpers: Auto-saving content packages took 0.058
