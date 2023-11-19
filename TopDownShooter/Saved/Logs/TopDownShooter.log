@@ -2073,3 +2073,247 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.11.18-23.27.53:506][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.11.18-23.27.53:510][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
 [2023.11.18-23.27.53:561][336]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.11.18-23.28.19:517][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.11.18-23.28.19:517][496]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.029
+[2023.11.18-23.28.19:518][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([2] browsable assets)...
+[2023.11.18-23.28.19:533][496]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.11.18-23.28.19:534][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.11.18-23.28.19:564][496]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto5870A350B41BFBA2D779343A2D8E6C849.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto5.uasset'
+[2023.11.18-23.28.19:565][496]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AB_Marine_01] ([2] browsable assets)...
+[2023.11.18-23.28.19:580][496]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01]
+[2023.11.18-23.28.19:580][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AB_Marine_01]
+[2023.11.18-23.28.19:601][496]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/AB_Marine_01_Auto5BAE8B3F1478D407A254DA0A6ACF20226.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/AB_Marine_01_Auto5.uasset'
+[2023.11.18-23.28.19:602][496]LogFileHelpers: Auto-saving content packages took 0.084
+[2023.11.18-23.37.45:971][954]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01DEF0255648E6CF14D7FFC0AE3FDB698D.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Content/Blueprints/Pawns/BP_Soldier_01.uasset'
+[2023.11.18-23.37.45:990][954]AssetCheck: New page: Asset Save: BP_Soldier_01
+[2023.11.18-23.37.45:990][954]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01
+[2023.11.18-23.38.56:867][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2023.11.18-23.38.56:869][226]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.035
+[2023.11.18-23.38.56:870][226]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([2] browsable assets)...
+[2023.11.18-23.38.56:880][226]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.11.18-23.38.56:880][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.11.18-23.38.56:914][226]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto6ECAAFEDD46C9C36810342185676D795F.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto6.uasset'
+[2023.11.18-23.38.56:915][226]LogFileHelpers: Auto-saving content packages took 0.045
+[2023.11.18-23.39.45:975][936]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.11.18-23.39.46:035][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.11.18-23.39.51:428][253]LogTemp: Repeating last play command: Selected Viewport
+[2023.11.18-23.39.51:432][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-23.39.51:432][253]PIE: New page: PIE session: Main (19 lis 2023, 01:39:51)
+[2023.11.18-23.39.51:432][253]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.11.18-23.39.51:435][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002261s)
+[2023.11.18-23.39.51:435][253]LogAIModule: Creating AISystem for world Main
+[2023.11.18-23.39.51:436][253]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2023.11.18-23.39.51:436][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.003156s)
+[2023.11.18-23.39.51:465][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.11.18-23.39.51:466][253]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.18-23.39.51:466][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-23.39.51:466][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-23.39.51:466][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-23.39.51:466][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-23.39.51:466][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.18-23.39.51:466][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-23.39.51:466][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.18-23.39.51:466][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-23.39.51:467][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-23.39.51:467][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-23.39.51:467][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-23.39.51:467][253]LogAudioMixer: Display: Initializing audio mixer.
+[2023.11.18-23.39.51:469][253]LogAudioMixer: Display: 0: FrontLeft
+[2023.11.18-23.39.51:469][253]LogAudioMixer: Display: 1: FrontRight
+[2023.11.18-23.39.51:474][253]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.11.18-23.39.51:474][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-23.39.51:474][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-23.39.51:474][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-23.39.51:475][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.11.18-23.39.51:475][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.11.18-23.39.51:475][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.11.18-23.39.51:476][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.11.18-23.39.51:476][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.11.18-23.39.51:476][253]LogInit: FAudioDevice initialized.
+[2023.11.18-23.39.51:476][253]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main'.
+[2023.11.18-23.39.51:481][253]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.11.18-23.39.51:482][253]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.19-00.39.51
+[2023.11.18-23.39.51:483][253]LogWorld: Bringing up level for play took: 0.000802
+[2023.11.18-23.39.51:483][253]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.11.18-23.39.51:486][253]PIE: Server logged in
+[2023.11.18-23.39.51:486][253]PIE: Play in editor total start time 0,055 seconds.
+[2023.11.18-23.39.54:833][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-23.39.54:833][452]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.11.18-23.39.54:833][452]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-23.39.54:833][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-23.39.54:840][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-23.39.54:845][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-23.39.54:869][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-23.39.54:870][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.18-23.39.54:871][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.18-23.39.54:873][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-23.39.54:877][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.11.18-23.39.54:923][454]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.11.18-23.40.28:175][424]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BP_Spider.BP_Spider
+[2023.11.18-23.42.27:087][482]BlueprintLog: New page: Compile BP_Spider
+[2023.11.18-23.42.27:151][482]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2023.11.18-23.42.44:329][685]LogTemp: Repeating last play command: Selected Viewport
+[2023.11.18-23.42.44:334][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-23.42.44:334][685]PIE: New page: PIE session: Main (19 lis 2023, 01:42:44)
+[2023.11.18-23.42.44:357][685]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.11.18-23.42.44:359][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002500s)
+[2023.11.18-23.42.44:360][685]LogAIModule: Creating AISystem for world Main
+[2023.11.18-23.42.44:360][685]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2023.11.18-23.42.44:360][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.003646s)
+[2023.11.18-23.42.44:392][685]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.11.18-23.42.44:393][685]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.11.18-23.42.44:393][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-23.42.44:393][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-23.42.44:393][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-23.42.44:393][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-23.42.44:393][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.18-23.42.44:393][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-23.42.44:393][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.18-23.42.44:393][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-23.42.44:394][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-23.42.44:394][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-23.42.44:394][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-23.42.44:394][685]LogAudioMixer: Display: Initializing audio mixer.
+[2023.11.18-23.42.44:396][685]LogAudioMixer: Display: 0: FrontLeft
+[2023.11.18-23.42.44:396][685]LogAudioMixer: Display: 1: FrontRight
+[2023.11.18-23.42.44:401][685]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.11.18-23.42.44:401][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-23.42.44:401][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-23.42.44:401][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-23.42.44:401][685]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.11.18-23.42.44:401][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.11.18-23.42.44:401][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.11.18-23.42.44:402][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.11.18-23.42.44:402][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.11.18-23.42.44:402][685]LogInit: FAudioDevice initialized.
+[2023.11.18-23.42.44:402][685]LogAudio: Display: Audio Device (ID: 20) registered with world 'Main'.
+[2023.11.18-23.42.44:407][685]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.11.18-23.42.44:408][685]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.19-00.42.44
+[2023.11.18-23.42.44:409][685]LogWorld: Bringing up level for play took: 0.000768
+[2023.11.18-23.42.44:409][685]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.11.18-23.42.44:412][685]PIE: Server logged in
+[2023.11.18-23.42.44:412][685]PIE: Play in editor total start time 0,079 seconds.
+[2023.11.18-23.42.46:395][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-23.42.46:395][802]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.11.18-23.42.46:395][802]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-23.42.46:395][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-23.42.46:404][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-23.42.46:409][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-23.42.46:437][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-23.42.46:437][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.18-23.42.46:438][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.18-23.42.46:440][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-23.42.46:444][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.11.18-23.42.46:462][803]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.11.18-23.42.49:838][890]Cmd: SELECT NONE
+[2023.11.18-23.42.51:273][976]LogTemp: Repeating last play command: Selected Viewport
+[2023.11.18-23.42.51:278][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-23.42.51:278][976]PIE: New page: PIE session: Main (19 lis 2023, 01:42:51)
+[2023.11.18-23.42.51:278][976]LogPlayLevel: Creating play world package: /Game/Main/UEDPIE_0_Main
+[2023.11.18-23.42.51:280][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002071s)
+[2023.11.18-23.42.51:281][976]LogAIModule: Creating AISystem for world Main
+[2023.11.18-23.42.51:281][976]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2023.11.18-23.42.51:281][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Main.Main to /Game/Main/UEDPIE_0_Main.Main (0.002946s)
+[2023.11.18-23.42.51:310][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.11.18-23.42.51:311][976]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.11.18-23.42.51:311][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-23.42.51:311][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-23.42.51:311][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-23.42.51:311][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-23.42.51:311][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.18-23.42.51:311][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-23.42.51:311][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.18-23.42.51:311][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-23.42.51:312][976]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-23.42.51:312][976]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-23.42.51:312][976]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-23.42.51:312][976]LogAudioMixer: Display: Initializing audio mixer.
+[2023.11.18-23.42.51:314][976]LogAudioMixer: Display: 0: FrontLeft
+[2023.11.18-23.42.51:314][976]LogAudioMixer: Display: 1: FrontRight
+[2023.11.18-23.42.51:319][976]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.11.18-23.42.51:319][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-23.42.51:319][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-23.42.51:319][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-23.42.51:319][976]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.11.18-23.42.51:319][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.11.18-23.42.51:319][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.11.18-23.42.51:320][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.11.18-23.42.51:320][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.11.18-23.42.51:320][976]LogInit: FAudioDevice initialized.
+[2023.11.18-23.42.51:320][976]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main'.
+[2023.11.18-23.42.51:328][976]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.11.18-23.42.51:329][976]LogWorld: Bringing World /Game/Main/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.19-00.42.51
+[2023.11.18-23.42.51:330][976]LogWorld: Bringing up level for play took: 0.000744
+[2023.11.18-23.42.51:330][976]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.11.18-23.42.51:332][976]PIE: Server logged in
+[2023.11.18-23.42.51:333][976]PIE: Play in editor total start time 0,056 seconds.
+[2023.11.18-23.42.55:610][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-23.42.55:610][230]LogWorld: BeginTearingDown for /Game/Main/UEDPIE_0_Main
+[2023.11.18-23.42.55:611][230]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-23.42.55:611][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-23.42.55:621][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-23.42.55:626][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-23.42.55:655][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-23.42.55:655][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.18-23.42.55:656][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.11.18-23.42.55:661][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.11.18-23.42.55:679][231]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.11.18-23.46.02:835][158]BlueprintLog: New page: Compile BP_Soldier_01
+[2023.11.18-23.46.02:897][158]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2023.11.18-23.48.14:123][194]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.18-23.48.14:137][194]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.18-23.48.21:207][619]LogContentBrowser: Attempting asset rename: NewFolder -> MacroLibraries
+[2023.11.18-23.48.21:209][619]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.18-23.48.35:353][ 22]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.18-23.48.40:918][ 22]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.18-23.48.40:925][ 22]LogContentBrowser: Deferred new asset file creation: NewMacroLibrary
+[2023.11.18-23.48.40:936][ 22]LogContentBrowser: Creating deferred item: NewMacroLibrary
+[2023.11.18-23.48.49:603][230]LogContentBrowser: Attempting asset rename: NewMacroLibrary -> P
+[2023.11.18-23.48.49:612][230]LogContentBrowser: End creating deferred item NewMacroLibrary
+[2023.11.18-23.48.59:919][832]LogContentBrowser: Attempting asset rename: P -> ML_AliveState
+[2023.11.18-23.48.59:940][832]LogMetaData: Removing '/Game/Blueprints/MacroLibraries/ML_AliveState.SKEL_ML_AliveState_C' ref from Metadata '/Game/Blueprints/MacroLibraries/P.PackageMetaData'
+[2023.11.18-23.48.59:940][832]LogMetaData: Removing '/Game/Blueprints/MacroLibraries/ML_AliveState.ML_AliveState_C' ref from Metadata '/Game/Blueprints/MacroLibraries/P.PackageMetaData'
+[2023.11.18-23.48.59:983][832]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/ML_AliveState37947BF649C14AC14E69B4AF68E3C8E0.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Content/Blueprints/MacroLibraries/ML_AliveState.uasset'
+[2023.11.18-23.49.00:072][832]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2023.11.18-23.49.00:106][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.11.18-23.49.00:133][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.18-23.49.00:207][832]AssetCheck: New page: Asset Save: ML_AliveState
+[2023.11.18-23.49.00:207][832]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MacroLibraries/ML_AliveState.ML_AliveState
+[2023.11.18-23.49.00:947][876]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MacroLibraries/ML_AliveState.ML_AliveState
+[2023.11.18-23.50.08:382][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.11.18-23.50.08:394][772]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Main_Auto7F3ED2D554193BB122A5C26ADC77D9B8E.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Main/Main_Auto7.umap'
+[2023.11.18-23.50.08:395][772]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.043
+[2023.11.18-23.50.08:395][772]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2023.11.18-23.50.08:395][772]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/AI/BP_Spider] ([2] browsable assets)...
+[2023.11.18-23.50.08:409][772]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/AI/BP_Spider.BP_Spider_C]
+[2023.11.18-23.50.08:416][772]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_Spider.BP_Spider]
+[2023.11.18-23.50.08:416][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_Spider]
+[2023.11.18-23.50.08:436][772]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Spider_Auto7626CE5594D1C2B22239F34AAA586CFB2.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/AI/BP_Spider_Auto7.uasset'
+[2023.11.18-23.50.08:438][772]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Soldier_01] ([2] browsable assets)...
+[2023.11.18-23.50.08:445][772]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Soldier_01.BP_Soldier_01]
+[2023.11.18-23.50.08:445][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Soldier_01]
+[2023.11.18-23.50.08:480][772]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Soldier_01_Auto7C8A9793548C81723ED91D388E3EC8010.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/Pawns/BP_Soldier_01_Auto7.uasset'
+[2023.11.18-23.50.08:482][772]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Marine/Animations/AB_Marine_01] ([2] browsable assets)...
+[2023.11.18-23.50.08:489][772]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Marine/Animations/AB_Marine_01.AB_Marine_01]
+[2023.11.18-23.50.08:489][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Marine/Animations/AB_Marine_01]
+[2023.11.18-23.50.08:509][772]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/AB_Marine_01_Auto76C3BF8824B36263775B6169D4B7EFCC6.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Characters/Marine/Animations/AB_Marine_01_Auto7.uasset'
+[2023.11.18-23.50.08:510][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MacroLibraries/ML_AliveState] ([2] browsable assets)...
+[2023.11.18-23.50.08:510][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MacroLibraries/ML_AliveState]
+[2023.11.18-23.50.08:512][772]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/ML_AliveState_Auto74DBAE2214750C8FB0A864BA15E7E4702.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/MacroLibraries/ML_AliveState_Auto7.uasset'
+[2023.11.18-23.50.08:512][772]LogFileHelpers: Auto-saving content packages took 0.118
+[2023.11.19-00.00.08:905][752]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2023.11.19-00.00.08:906][752]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Main' took 0.035
+[2023.11.19-00.00.08:907][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI/BP_Spider] ([2] browsable assets)...
+[2023.11.19-00.00.08:922][752]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI/BP_Spider.BP_Spider]
+[2023.11.19-00.00.08:922][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_Spider]
+[2023.11.19-00.00.08:939][752]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Spider_Auto864FE525D4A54C2C9178872869A602B01.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/AI/BP_Spider_Auto8.uasset'
+[2023.11.19-00.00.08:941][752]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MacroLibraries/ML_AliveState] ([2] browsable assets)...
+[2023.11.19-00.00.08:941][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MacroLibraries/ML_AliveState]
+[2023.11.19-00.00.08:943][752]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/ML_AliveState_Auto86AC287BC4D404A7A1B1CA1A20C040E6A.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/Autosaves/Game/Blueprints/MacroLibraries/ML_AliveState_Auto8.uasset'
+[2023.11.19-00.00.08:943][752]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.11.19-00.05.44:180][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Spider" FILE="../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Content/Blueprints/AI/BP_Spider.uasset" SILENT=true
+[2023.11.19-00.05.44:195][170]LogSavePackage: Moving '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Saved/BP_Spider29FAD8E24374814C7BDDA493043888B9.tmp' to '../../../../../../Users/benma/Documents/GitHub/TopDownShooter/TopDownShooter/Content/Blueprints/AI/BP_Spider.uasset'
+[2023.11.19-00.05.44:211][170]AssetCheck: New page: Asset Save: BP_Spider
+[2023.11.19-00.05.44:211][170]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/BP_Spider.BP_Spider
+[2023.11.19-00.05.49:550][222]BlueprintLog: New page: Compile BP_Spider
+[2023.11.19-00.05.49:608][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
